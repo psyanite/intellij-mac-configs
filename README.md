@@ -1,0 +1,1 @@
+# intellij-mac-configs
