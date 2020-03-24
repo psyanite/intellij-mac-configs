@@ -1,0 +1,3 @@
+<templateSet group="JavaScript">
+  <template name="clog" value="console.log()" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>
