@@ -1,5 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ Yanified" parent="Mac OS X 10.5+">
   <action id="Activatesbt-shell-toolwindowToolWindow" />
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
