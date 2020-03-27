@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ Yanified" parent="Mac OS X 10.5+">
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="Activatesbt-shell-toolwindowToolWindow" />
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl meta i" />
@@ -96,6 +99,10 @@
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta f8" />
+  </action>
+  <action id="UML.ShowChanges" />
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="shift meta d" />
