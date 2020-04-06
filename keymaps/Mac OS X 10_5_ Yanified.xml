@@ -27,6 +27,7 @@
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="EditBreakpoint" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -62,6 +63,11 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift meta w" />
