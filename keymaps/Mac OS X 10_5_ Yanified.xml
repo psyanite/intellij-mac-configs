@@ -38,6 +38,7 @@
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift home" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
@@ -56,6 +57,12 @@
     <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
   <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
