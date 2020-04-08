@@ -16,6 +16,8 @@
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="CloseActiveTab" />
+  <action id="Compile" />
+  <action id="CompileDirty" />
   <action id="Console.Open" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift meta f11" />
@@ -137,7 +139,7 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="shift meta f8" />
+    <keyboard-shortcut first-keystroke="shift meta f9" />
   </action>
   <action id="UML.ShowChanges" />
   <action id="Vcs.Show.Local.Changes">
