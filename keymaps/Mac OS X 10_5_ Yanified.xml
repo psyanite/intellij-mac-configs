@@ -103,6 +103,9 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
   <action id="NavBar-selectEnd">
