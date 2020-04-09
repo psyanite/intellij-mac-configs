@@ -47,6 +47,17 @@
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="EditBreakpoint" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorCompleteStatement" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -137,6 +148,15 @@
   </action>
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta f9" />
