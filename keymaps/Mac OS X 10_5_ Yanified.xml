@@ -15,10 +15,14 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="CheckinProject" />
   <action id="CloseActiveTab" />
   <action id="Compile" />
   <action id="CompileDirty" />
   <action id="Console.Open" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift meta f11" />
   </action>
@@ -151,6 +155,9 @@
   </action>
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ScrollPane-scrollEnd">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
