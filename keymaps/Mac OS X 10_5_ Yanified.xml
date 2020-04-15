@@ -140,6 +140,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="Rerun" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
