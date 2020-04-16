@@ -125,6 +125,10 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
@@ -136,6 +140,10 @@
   </action>
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
@@ -177,6 +185,7 @@
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="StopBackgroundProcesses" />
+  <action id="Switcher" />
   <action id="UML.ShowChanges" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="shift meta 9" />
