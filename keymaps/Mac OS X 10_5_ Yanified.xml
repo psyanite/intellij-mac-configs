@@ -24,7 +24,7 @@
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="shift meta f11" />
+    <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id="Diff.AppendLeftSide">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -110,6 +110,9 @@
   <action id="LocalHistory">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
+  <action id="MaximizeToolWindow">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
   <action id="NavBar-selectEnd">
@@ -146,7 +149,7 @@
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="shift meta f10" />
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="RunTargetAction" />
   <action id="Scala.ShowImplicitArguments" />
@@ -169,9 +172,11 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="ShowRecentTests" />
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="StopBackgroundProcesses" />
   <action id="UML.ShowChanges" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="shift meta 9" />
