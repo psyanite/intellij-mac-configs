@@ -75,7 +75,9 @@
     <keyboard-shortcut first-keystroke="shift home" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="ExpressionTypeInfo" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta o" />
@@ -132,8 +134,9 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
+  <action id="ParameterInfo" />
   <action id="Play2.TypeInfo">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -169,7 +172,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="Scala.TypeInfo">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
