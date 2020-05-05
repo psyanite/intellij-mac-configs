@@ -12,6 +12,7 @@
     <mask>*.java</mask>
     <mask>*service.dart</mask>
     <mask>*ts*</mask>
+    <mask>*.ts*</mask>
     <mask>*.scala</mask>
   </component>
 </application>
