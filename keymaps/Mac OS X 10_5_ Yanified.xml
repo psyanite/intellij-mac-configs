@@ -21,10 +21,10 @@
   <action id="CompileDirty" />
   <action id="Console.Open" />
   <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="meta quote" />
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="shift meta quote" />
+    <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="Diff.AppendLeftSide">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -172,7 +172,7 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="Run">
-    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="RunTargetAction" />
   <action id="Scala.ShowImplicitArguments" />
@@ -192,6 +192,7 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta l" />
