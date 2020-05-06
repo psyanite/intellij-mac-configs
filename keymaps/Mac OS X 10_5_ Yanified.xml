@@ -194,8 +194,9 @@
   </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
+  <action id="ShowSettings" />
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="shift meta l" />
+    <keyboard-shortcut first-keystroke="meta comma" />
   </action>
   <action id="StopBackgroundProcesses" />
   <action id="Switcher" />
