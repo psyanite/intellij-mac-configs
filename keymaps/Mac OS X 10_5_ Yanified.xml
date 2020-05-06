@@ -195,9 +195,7 @@
   <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
   <action id="ShowSettings" />
-  <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta comma" />
-  </action>
+  <action id="Stop" />
   <action id="StopBackgroundProcesses" />
   <action id="Switcher" />
   <action id="UML.ShowChanges" />
