@@ -189,6 +189,7 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="ShowBookmarks" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -200,6 +201,8 @@
   </action>
   <action id="StopBackgroundProcesses" />
   <action id="Switcher" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="UML.ShowChanges" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="shift meta 9" />
