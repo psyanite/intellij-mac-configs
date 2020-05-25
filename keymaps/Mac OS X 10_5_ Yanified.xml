@@ -15,6 +15,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
+  </action>
   <action id="CheckinProject" />
   <action id="CloseActiveTab" />
   <action id="Compile" />
