@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="xcconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
