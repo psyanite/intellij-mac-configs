@@ -206,6 +206,7 @@
   <action id="Switcher" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="TypeHierarchy" />
   <action id="UML.ShowChanges" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="shift meta 9" />
