@@ -3,6 +3,7 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
   </component>
