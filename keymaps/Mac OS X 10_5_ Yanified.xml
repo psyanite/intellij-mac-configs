@@ -105,7 +105,7 @@
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="Git.ResolveConflicts">
-    <keyboard-shortcut first-keystroke="shift meta 0" />
+    <keyboard-shortcut first-keystroke="shift meta right_parenthesis" />
   </action>
   <action id="GotoClass" />
   <action id="GotoDeclaration">
@@ -213,7 +213,7 @@
   <action id="TypeHierarchy" />
   <action id="UML.ShowChanges" />
   <action id="Vcs.Show.Local.Changes">
-    <keyboard-shortcut first-keystroke="shift meta 9" />
+    <keyboard-shortcut first-keystroke="shift meta left_parenthesis" />
   </action>
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="shift meta d" />
