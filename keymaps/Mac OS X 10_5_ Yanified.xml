@@ -105,7 +105,7 @@
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="Git.ResolveConflicts">
-    <keyboard-shortcut first-keystroke="shift meta right_parenthesis" />
+    <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
   <action id="GotoClass" />
   <action id="GotoDeclaration">
