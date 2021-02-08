@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*ts*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,7 +12,7 @@
     <mask>*.java</mask>
     <mask>*service.dart</mask>
     <mask>*.ts*</mask>
-    <mask>*ts*</mask>
     <mask>*.scala</mask>
+    <mask>*ts*</mask>
   </component>
 </application>
